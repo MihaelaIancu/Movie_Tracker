@@ -1,0 +1,192 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .imageWrapper {
+        height: 530px;
+    }
+
+    body {
+        background-size: 1450px;
+    }
+
+    .appTitle {
+        font-size: 12px;
+    }
+
+    .headerList {
+        font-size: 8px;
+    }
+
+    .movie img {
+        width: 50px;
+    }
+
+    #movieTitle {
+        font-size: 10px;
+    }
+
+    .movie p:nth-of-type(2) {
+        height: 85px;
+    }
+
+    .titleDetails {
+        font-size: 8px;
+    }
+
+    #yourMovies h2{
+        font-size: 0.9em;
+    }
+
+    .buttons {
+        width: 120px;
+    }
+
+    #sort-by-name, #sort-by-year, #sort-by-date, #sort-by-rating, #remove, #change {
+        font-size: 10px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .imageWrapper {
+        height: 630px;
+    }
+
+    body {
+        background-size: 1550px;
+    }
+
+    .appTitle {
+        font-size: 15px;
+    }
+
+    .headerList {
+        font-size: 10px;
+    }
+
+    .movie img {
+        width: 70px;
+    }
+
+    #movieTitle {
+        font-size: 12px;
+    }
+
+    .movie p:nth-of-type(2) {
+        height: 95px;
+    }
+
+    .titleDetails {
+        font-size: 10px;
+    }
+
+    #yourMovies h2{
+        font-size: 1.0em;
+    }
+
+    .buttons {
+        width: 150px;
+    }
+
+    #sort-by-name, #sort-by-year, #sort-by-date, #sort-by-rating, #remove, #change {
+        font-size: 11px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .imageWrapper {
+        height: 730px;
+    }
+
+    body {
+        background-size: 1650px;
+    }
+
+    .appTitle {
+        font-size: 20px;
+    }
+
+    .headerList {
+        font-size: 12px;
+    }
+
+    .movie img {
+        width: 90px;
+    }
+
+    #movieTitle {
+        font-size: 15px;
+    }
+
+    .movie p:nth-of-type(2) {
+        height: 110px;
+    }
+
+    .titleDetails {
+        font-size: 12px;
+    }
+
+    #yourMovies h2{
+        font-size: 1.2em;
+    }
+
+    .buttons {
+        width: 170px;
+    }
+
+    #sort-by-name, #sort-by-year, #sort-by-date, #sort-by-rating, #remove, #change {
+        font-size: 13px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .imageWrapper {
+        height: 830px;
+    }
+
+    body {
+        background-size: auto;
+    }
+
+    .appTitle {
+        font-size: 25px;
+    }
+
+    .headerList {
+        font-size: 14px;
+    }
+
+    .movie img {
+        width: 100px;
+    }
+
+    #movieTitle {
+        font-size: 20px;
+    }
+
+    .movie p:nth-of-type(2) {
+        height: 120px;
+    }
+
+    .titleDetails {
+        font-size: 15px;
+    }
+
+    #yourMovies h2{
+        font-size: 1.5em;
+    }
+
+    .buttons {
+        width: 200px;
+    }
+
+    #sort-by-name, #sort-by-year, #sort-by-date, #sort-by-rating, #remove, #change {
+        font-size: 15px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
