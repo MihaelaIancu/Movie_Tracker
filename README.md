@@ -4,7 +4,7 @@ Single page web application which allows the user to search and store his favori
 
 ### Description
 
-Project from a practical exam for Telacad Academy to prove my course completion.
+Project from a practical exam for [Telacad Academy](https://www.telacad.ro/) to prove my course completion.
 
 ### Functionality
 The user can search for any movie he wants and display few information about it (the movies data are stored on www.omdbapi.com).
